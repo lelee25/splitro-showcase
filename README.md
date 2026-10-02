@@ -26,7 +26,7 @@ Le quote vengono calcolate in centesimi interi; il totale resta verificabile.
 
 [Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/splitro.html)
 
-[Prova il motore di ripartizione](https://portfolio.lele-tradevalue.com/progetti/splitro/#demo)
+[Esplora la prova dimostrativa](https://portfolio.lele-tradevalue.com/progetti/splitro/#demo)
 
 ## Ambito pubblico
 
